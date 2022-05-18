@@ -1,0 +1,45 @@
+body{
+    font-family:Helvetica;
+    text-align: center;
+    color: rgb(120, 241, 231);
+    background-color:(rgb(46, 206, 206);
+    padding: 0;
+    margin: 0;
+}
+
+nav 
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid rgb(2, 236, 72);
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+} 
+ 
+ul li{
+    margin-right: 10px;
+}
+
+ul li a {
+  color: rgb(151, 252, 252);
+}
+
+h1 {
+    font-size: 32px;
+}
+
+img {
+    border: 1px solid rgb(25, 163, 197);
+}
+
+footer {
+    padding: 20px;
+    border-top: 1px solid rgb(53, 132, 185);
+    margin-top: 20px;
+    font-size: 20px;
+}
